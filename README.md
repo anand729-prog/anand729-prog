@@ -205,7 +205,7 @@ Personal portfolio showcasing
 </a>
 
 <a href="https://www.instagram.com/anandd___.18/">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnuR42lkdcJyylydK3wPVEvhqouYhaXKmPCHRj9NfEg&s=10"  width = 100/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnuR42lkdcJyylydK3wPVEvhqouYhaXKmPCHRj9NfEg&s=10"  width = 50/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
